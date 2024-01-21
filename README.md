@@ -1,5 +1,5 @@
 # so-un-bot
-The official https://t.me/so_1_bot questions repository
+The official https://t.me/so_1_unive_bot questions repository
 
 🇮🇹 Raccolta di domande con risposta multipla utili per esercitarsi in molteplici esami!
 
@@ -10,7 +10,7 @@ Per aggiungere o correggere domande potete fare una Pull Request a questa repo.
 
 In Utils trovate script, sviluppati da vari studenti del corso, per creare o validare i file delle domande.
 
-**Nota per gli admin di appinfosapienza:**
+**Nota per gli admin:**
 Al momento non sono presenti dei test CI che testano l'integrità del repository prima di un deploy.
 Quando accettate una Pull Request, entro due minuti verrà lanciata una nuova build sul server di produzione e al termine eseguito il bot con la nuova versione.
 
