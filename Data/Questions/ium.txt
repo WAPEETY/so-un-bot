@@ -292,7 +292,7 @@ v le azioni derivano da scopi pre-pianificati
 52) Nell’ambito della descrizione delparadigma a manipolazione direttasi fa riferimento alla metafora mondo modello, per la quale:
 v l’interfaccia non viene percepita comeuna mediazione con il sistema sottostante, ma come il sistema
 > l’interfaccia dovrebbe essere costruita come un modello in scala del mondo
->le azioni non sono reversibili, come succede appunto nel mondo reale
+> le azioni non sono reversibili, come succede appunto nel mondo reale
 
 53) La tastiera DVORAK
 v condivide con la tastiera QWERTY lo stesso layout fisico dei tasti
