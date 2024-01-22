@@ -321,7 +321,7 @@ v È un comportamento vietato dalla legge
 > è un comportamento regolato dai singoli social network
 
 66) Cos’è lo SPID?
-v È un sistema pubblico di identificazione di oggetti.
+v È un sistema pubblico di identificazione di soggetti.
 > è un sistema pubblico di attribuzione di posta certificata
 > è un sistema pubblico per accedere a determinati servizi di trading on line
 

@@ -301,7 +301,7 @@ v condivide con la tastiera QWERTY lo stesso layout fisico dei tasti
 
 54) I punti di forza di un’interfaccia tangibile includono:
 > lascalabilità
->la mancanza di relazione con il contesto
+> la mancanza di relazione con il contesto
 v il parallelismo spaziale
 > la mancanza di affordance
 
