@@ -262,9 +262,9 @@ v Si
 > No
 
 54) Un documento elettronico privo di firma digitale?
-v Non è valido
+> Non è valido
 > È valido
-> È valido ma un giudice può anche ritenerlo inidoneo.
+v È valido ma un giudice può anche ritenerlo inidoneo.
 
 55) Un internet provider è responsabile degli insulti pubblici dai suoi utenti?
 v No se svolge un ruolo meramente passivo nelle loro attività.
