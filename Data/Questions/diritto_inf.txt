@@ -329,3 +329,77 @@ v È un sistema pubblico di identificazione di soggetti.
 > l’indirizzo pec che indica dove siamo residenti
 > l'indirizzo pec che dobbiamo aver per i nostri rapporti con il fisco
 v L’indirizzo pec che vale per comunicazioni aventi valore legale.
+
+68) Cos'è la convergenza tecnologica?
+v Il fatto che latecnologia tende ad utilizzare un unico "terminale" per più funzioni
+> L'obbligo di non discriminare tra diverse tecnologie
+> Il divieto di discriminazione di ogni tipo tramite social network
+
+69) Cosa è la "aterritorialità"?
+v Il fatto che internet non ha una sede fissa
+> Il fatto che non si riesce agevolmente a determinare le regole giuridiche da applicare ai rapporti in rete
+> Il divieto di stabilire confini nei contratti informatici
+
+70) Su chi grava l'obbligo di ridurre il divario digitale?
+> Sulle Regioni
+v Sullo Stato
+> Non esiste questo obbligo
+
+71) A cosa serve una blockchain?
+> Si usa solo per registrare trasferimenti di criptovalute
+> Si può usare per rendere sicura ogni tipo di transazione economica
+v Si può usare per rendere sicura ogni tipo di attività a distanza
+
+72) La carta d'identità elettronica:
+v È una carta d'identità che serve anche per identificazioni online
+> È carta d'identità con microchip che serve per identificazione in presenza
+> È carta d'identità non alterabile in forza del microchip  che contiene
+
+73) Un file word:
+> È un documento informatico che non ha alcun valore
+v È un documento liberamente valutabile
+> È un documento liberamente valutabile se viene convertito in pdf
+
+74) Se qualcuno usa il mio kit di firma elettronica senza il mio consenso
+v Il documento firmato è valido comunque
+> Il documento firmato non è mai valido
+> Il documento firmato non è valido ma io posso validarlo successivamente
+
+75) Quale ente disciplina l'uso dello Spid o della carta d'identità elettronica?
+> Ogni ente che eroghi quello specifico servizio
+v L'agenzia per l'Italia digitale
+> Il ministero delle comunicazioni
+
+76) A cosa serve PagoPA?
+v Per pagamenti verso amministrazioni pubbliche
+> Per qualsiasi tipo di pagamento
+> Per pagamenti verso soggetti muniti di domicilio digitale
+
+77) A cosa serve l'app IO?
+> È una app per conoscere lo stato di aggiornamento della digitalizzazione dei servizi in Italia
+v È una app per accedere a servizi della pubblica amministrazione
+> È una app per prenotare visite mediche presso le Uls
+
+78) Esiste la Carta della cittadinanza digitale?
+> No
+> È prevista dalla legge ma non ancora attuata
+v Sì
+
+79) La carta dei diritti di Internet ha valore legale?
+> Sì
+v No
+
+80) Esistono norme specifiche per la responsabilità degli Internet provider?
+> No
+È prevista l'emenazione di una specifica legge ma ancora non c'è
+v Sì
+
+81) Esistono norme specifiche per tutelare l'identità digitale?
+> No
+> È prevista l'emenazione di una specifica legge ma ancora non c'è
+v Sì
+
+82) È possibile chiedere la cancellazione dei propri dati personali a chi li conserva?
+v Sì
+> Sì purché non si sia rinunciato in anticipo a chiederlo
+> Sì purché si sia pagato il corrispettivo previsto per questa attività
