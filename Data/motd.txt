@@ -4,8 +4,6 @@ Con questo bot puoi esercitarti con le domande di alcuni esami del corso di Info
 ✅ Il bot è mantenuto da @notherealmarco (Dell'Università Sapienza)
 ✅ L'istanza é mantenuta @WAPEETY
 
-ℹ️ Sistemi Operativi I si riferisce al corso del prof. Melatti (canale I)
-
 ℹ️ IUM si riferisce al corso del prof. Pittarello
 
 ℹ️ SO1 si riferisce al corso della prof. Balsamo
