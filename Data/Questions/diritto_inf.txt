@@ -391,7 +391,7 @@ v No
 
 80) Esistono norme specifiche per la responsabilità degli Internet provider?
 > No
-È prevista l'emenazione di una specifica legge ma ancora non c'è
+> È prevista l'emenazione di una specifica legge ma ancora non c'è
 v Sì
 
 81) Esistono norme specifiche per tutelare l'identità digitale?
@@ -403,3 +403,76 @@ v Sì
 v Sì
 > Sì purché non si sia rinunciato in anticipo a chiederlo
 > Sì purché si sia pagato il corrispettivo previsto per questa attività
+
+83) In Italia il voto elettronico:
+v È in corso di sperimentazione in alcuni settori
+> È utilizzato
+> È vietato
+
+84) In Italia, i partiti digitali:
+> Sono vietati
+> Non sono vietati ma ancora non esistono
+v Esistono
+
+85) Il contratto e la tecnologia sono fonti di regole?
+v Teoricamente no ma di fatto sì
+> Teoricamente sì ma di fatto no
+> No
+
+86) Chi tratta dati personali altrui deve adottare misure di sicurezza contro la loro violazione?
+> Non esiste alcuna norma specifica, dipende dal contratto
+v Sì esiste una disciplina specifica
+> Sì anche se non esiste una norma specifica
+
+87) Esiste un obbligo generale a garantire la sicurezza informatica delle reti?
+> Sì
+v No
+
+88) Chi fornisce servizi di intermediazione on line deve istituire un servizio di gestione dei reclami?
+> No, è una scelta libera dell'imprenditore
+> Sì, ma può farlo a pagamento
+v Sì e deve essere gratuito
+
+89) Se qualcuno vuol fare attività commerciale on line:
+> È tenuto a chiedere un'autorizzazione
+> È tenuto a chiedere un'autorizzazione che però non può essere rifiutata
+v Non deve chiedere alcuna autorizzazione
+
+90) Si possono concludere contratti per via elettronica?
+> Sì ma devono essere seguiti da un documento cartaceo
+v Sì
+> No
+
+91) Nei contratti conclusi on line tra un professionista ed un consumatore:
+> Il consumatore ha diritto di recesso entro 14 giorni salvo abbia rinunciato
+> Il consumatore può rinunciare al diritto di recesso solo se la sua rinuncia sia pagata
+v Il consumatore non può rinunciare al diritto di recesso
+
+92) Un nome di dominio può essere considerato un bene?
+v Sì
+> Sì ma solo se sia stato registrato presso l'ufficio marchi e breveetti
+> Sì ma solo se acquistato a pagamento
+
+93) Cosa è il diritto alla portabilit dei dati?
+> Il diritto a tenere il proprio indirizzo IP se si cambia provider
+> Il diritto di farsi consegnare da una banca tutti i dati del proprio conto corrente
+v Il diritto di farsi consegnare tutti i propri dati personali dal soggetto autorizzato a conservarli
+
+94) Se creo un mio avatar, questa creazione è protetta dalla legge?
+v Sì
+> No
+
+95) Le amministrazioni pubbliche sono obbligate ad avere un sito web?
+> No
+> È prevista l'emanazione di una specifica legge ma ancora non c'è
+v Sì
+
+96) Esiste un diritto di accedere ad Internet?
+> No
+> È prevista l'emanazione di una specifica legge ma ancora non c'è
+v Sì
+
+97) Posso pretendere che le comunicazioni che mi riguardano mi siano inviate alla mia pec?
+v Sì
+> Sì ma non nei confronti delle amministrazioni pubbliche
+> No
