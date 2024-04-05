@@ -11,5 +11,5 @@ services:
         - ADMIN_ID=${TELEGRAM_ADMIN_ID}
     volumes:
       - "${ACL_DIR}:/app/data"
-      - "data/questions:/app/data/questions"
-      - "data/config:/app/data/config"
+      - "../data/questions:/app/data/questions"
+      - "../data/config:/app/data/config"
