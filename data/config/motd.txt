@@ -1,7 +1,7 @@
-"Benvenuto 👑
+Benvenuto 👑
 Con questo bot puoi esercitarti con le domande di alcuni esami del corso di Informatica! 🤞.
 
-✅ Il bot è mantenuto da @notherealmarco (Dell'Università Sapienza)
+✅ Il bot è sviluppato da @notherealmarco e @WAPEETY
 ✅ L'istanza é mantenuta @WAPEETY
 
 ℹ️ IUM si riferisce al corso del prof. Pittarello
@@ -10,18 +10,23 @@ Con questo bot puoi esercitarti con le domande di alcuni esami del corso di Info
 
 ℹ️ diritto si riferisce al corso del prof. Siccherio
 
-Per contribuire (aggiungere o correggere domande), il bot si sincronizza con il seguente repository:
-https://github.com/WAPEETY/so-un-bot-unive
+Per contribuire allo sviluppo:
+https://github.com/WAPEETY/pIm-a-bot
+
+Per contribuire con nuove domande e/o correzioni:
+https://github.com/WAPEETY/so-un-bot-unive/
+
 Pull requests sono ben accette! 🫂❤️
 
 🆘 Per segnalare errori, per proporre nuove domande 🙏, o semplicemente se questo bot ti fa schifo 😢, non esitare a contattarmi: @WAPEETY
 (Oppure puoi correggere errori in autonomia inviando una PR al repository GitHub)
 
 ⭕️ Informativa sulla privacy:
-Il bot, per garantire il corretto funzionamento, potrebbe memorizzare il vostro ID utente Telegram in modo permanente.
-Dati sulle risposte date NON vengono in alcun modo memorizzati in modo permanente e persistono in memoria RAM solo durante l'esecuzione di un quiz.
+Il bot, per garantire il corretto funzionamento, memorizza il vostro ID utente Telegram in modo permanente.
+Dati sulle risposte date vengono memorizzati in modo permanente durante l'esecuzione di un quiz.
+É possibile cancellare i propri dati in qualsiasi momento utilizzando il comando /unregister
 
-👷‍♀️Per avviare un modulo puoi utilizzare i seguenti comandi:
+👷‍♀️ Per avviare un modulo puoi utilizzare i seguenti comandi:
 /ium (IUM)
 /so1 (Sistemi Operativi I)
 /diritto_inf (Diritto)
