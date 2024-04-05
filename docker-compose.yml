@@ -10,6 +10,6 @@ services:
         - API_KEY=${TELEGRAM_TOKEN}
         - ADMIN_ID=${TELEGRAM_ADMIN_ID}
     volumes:
-      - ../data/questions:/app/data/questions
-      - ../data/config:/app/data/config
+      - ./data/questions:/app/data/questions
+      - ./data/config:/app/data/config
       - ${ACL_DIR}:/app/data
