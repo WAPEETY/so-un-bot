@@ -26,6 +26,8 @@ Il bot, per garantire il corretto funzionamento, memorizza il vostro ID utente T
 Dati sulle risposte date vengono memorizzati in modo permanente durante l'esecuzione di un quiz.
 É possibile cancellare i propri dati in qualsiasi momento utilizzando il comando /unregister
 
+A breve pubblicheremo un documento più dettagliato sulla privacy.
+
 👷‍♀️ Per avviare un modulo puoi utilizzare i seguenti comandi:
 /ium (IUM)
 /so1 (Sistemi Operativi I)
